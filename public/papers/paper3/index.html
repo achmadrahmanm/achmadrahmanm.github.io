@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/hugo-website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hugo-website/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method | Achmad Rahman Mawardi</title>
+<meta name="keywords" content="computer vision, vehicle detection, traffic violation detection, BLOB method, mean-shift tracking, image processing, CCTV surveillance, traffic light monitoring">
+<meta name="description" content="This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.">
+<meta name="author" content="Mochamad Mobed Bachtiar,&thinsp;Achmad Rahman Mawardi,&thinsp;Adnan Rachmat Anom Besari">
+<link rel="canonical" href="http://localhost:1313/hugo-website/papers/paper3/">
+<link crossorigin="anonymous" href="/hugo-website/assets/css/stylesheet.977eaf2e691fe9d6783238f3ea60f3c0affcf333092baaee887438624edc50f3.css" integrity="sha256-l36vLmkf6dZ4Mjjz6mDzwK/88zMJK6ruiHQ4Yk7cUPM=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/hugo-website/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/hugo-website/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/hugo-website/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/hugo-website/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/hugo-website/papers/paper3/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/hugo-website/papers/paper3/">
+  <meta property="og:site_name" content="Achmad Rahman Mawardi">
+  <meta property="og:title" content="Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method">
+  <meta property="og:description" content="This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="papers">
+    <meta property="article:published_time" content="2021-10-12T00:00:00+00:00">
+    <meta property="article:modified_time" content="2021-10-12T00:00:00+00:00">
+    <meta property="article:tag" content="Computer Vision">
+    <meta property="article:tag" content="Vehicle Detection">
+    <meta property="article:tag" content="Traffic Violation Detection">
+    <meta property="article:tag" content="BLOB Method">
+    <meta property="article:tag" content="Mean-Shift Tracking">
+    <meta property="article:tag" content="Image Processing">
+    <meta property="og:image" content="http://localhost:1313/hugo-website/papers/paper3/paper.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://localhost:1313/hugo-website/papers/paper3/paper.png">
+<meta name="twitter:title" content="Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method">
+<meta name="twitter:description" content="This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Papers",
+      "item": "http://localhost:1313/hugo-website/papers/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method",
+      "item": "http://localhost:1313/hugo-website/papers/paper3/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method",
+  "name": "Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method",
+  "description": "This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.",
+  "keywords": [
+    "computer vision", "vehicle detection", "traffic violation detection", "BLOB method", "mean-shift tracking", "image processing", "CCTV surveillance", "traffic light monitoring"
+  ],
+  "articleBody": " Download Paper Raw data Abstract Obeying traffic regulations is an obligation for every driver. Although obeying traffic regulations is mandatory, there are many violations that occur on the road such as breaking through road markings or traffic lights. The police have implemented many innovations to reduce the occurrence of traffic violations, but they are still inefficient in handling traffic violations. In this research, a vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections. In this study, a vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections. Vehicle violation data is taken from CCTV cameras installed at road junctions. the system works for vehicle detection and traffic violation detection. The process of vehicle detection by searching for vehicle contours uses the BLOB method. Furthermore, in tracking vehicles using the Mean Shift Algorithm. To recognize road marking violations. We create a border as a reference in the CCTV video using image processing. When the traffic light sign stops, and the vehicle does not stop at the reference line, the vehicle is considered a traffic violation. When the vehicle has to turn, or go straight, it must be in the same direction as the reference line, otherwise it is considered a traffic violation. The detection results for motorcycles are 79% and cars are 71%. Meanwhile, the average result of violations on road markings is 58%.\nCitation Bachtiar, Mochamad Mobed, Achmad Rahman Mawardi, and Adnan Rachmat Anom Besari. 2021. “Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method.” 2021 International Electronics Symposium (IES): 355–360.\n@inproceedings{bachtiar2021vehicle, title={Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method}, author={Bachtiar, Mochamad Mobed and Mawardi, Achmad Rahman and Besari, Adnan Rachmat Anom}, booktitle={2021 International Electronics Symposium (IES)}, pages={355--360}, year={2021}, organization={IEEE} } ",
+  "wordCount" : "315",
+  "inLanguage": "en",
+  "image":"http://localhost:1313/hugo-website/papers/paper3/paper.png","datePublished": "2021-10-12T00:00:00Z",
+  "dateModified": "2021-10-12T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Mochamad Mobed Bachtiar"
+  }, {
+    "@type": "Person",
+    "name": "Achmad Rahman Mawardi"
+  }, {
+    "@type": "Person",
+    "name": "Adnan Rachmat Anom Besari"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/hugo-website/papers/paper3/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Achmad Rahman Mawardi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/hugo-website/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/hugo-website/" accesskey="h" title="Achmad Rahman Mawardi">
+                <img src="http://localhost:1313/hugo-website/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Achmad Rahman Mawardi</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/hugo-website/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/courses/" title="Courses">
+                    <span>Courses</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://koalajahat.org/blog" title="Blog">
+                    <span>Blog</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method
+    </h1>
+    <div class="post-meta"><span title='2021-10-12 00:00:00 +0000 UTC'>October 2021</span>&nbsp;&middot;&nbsp;Mochamad Mobed Bachtiar,&thinsp;Achmad Rahman Mawardi,&thinsp;Adnan Rachmat Anom Besari&nbsp;&middot;&nbsp;<a href="https://ieeexplore.ieee.org/document/9557628" rel="noopener noreferrer" target="_blank">IEEE </a>
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h5 id="download">Download</h5>
+<ul>
+<li><a href="paper3.pdf">Paper</a></li>
+<li><a href="https://github.com/pmichaillat/michez-rule" target="_blank">Raw data</a></li>
+</ul>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<p>Obeying traffic regulations is an obligation for every driver. Although obeying traffic regulations is mandatory, there are many violations that occur on the road such as breaking through road markings or traffic lights. The police have implemented many innovations to reduce the occurrence of traffic violations, but they are still inefficient in handling traffic violations. In this research, a vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections. In this study, a vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections. Vehicle violation data is taken from CCTV cameras installed at road junctions. the system works for vehicle detection and traffic violation detection. The process of vehicle detection by searching for vehicle contours uses the BLOB method. Furthermore, in tracking vehicles using the Mean Shift Algorithm. To recognize road marking violations. We create a border as a reference in the CCTV video using image processing. When the traffic light sign stops, and the vehicle does not stop at the reference line, the vehicle is considered a traffic violation. When the vehicle has to turn, or go straight, it must be in the same direction as the reference line, otherwise it is considered a traffic violation. The detection results for motorcycles are 79% and cars are 71%. Meanwhile, the average result of violations on road markings is 58%.</p>
+<hr>
+<h5 id="citation">Citation</h5>
+<p>Bachtiar, Mochamad Mobed, Achmad Rahman Mawardi, and Adnan Rachmat Anom Besari. 2021. &ldquo;Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method.&rdquo; <em>2021 International Electronics Symposium (IES)</em>: 355–360.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#0a0;text-decoration:underline">@inproceedings</span>{bachtiar2021vehicle,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">title</span>=<span style="color:#a50">{Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">author</span>=<span style="color:#a50">{Bachtiar, Mochamad Mobed and Mawardi, Achmad Rahman and Besari, Adnan Rachmat Anom}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">booktitle</span>=<span style="color:#a50">{2021 International Electronics Symposium (IES)}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">pages</span>=<span style="color:#a50">{355--360}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">year</span>=<span style="color:#a50">{2021}</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#1e90ff">organization</span>=<span style="color:#a50">{IEEE}</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/hugo-website/tags/computer-vision/">Computer Vision</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/vehicle-detection/">Vehicle Detection</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/traffic-violation-detection/">Traffic Violation Detection</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/blob-method/">BLOB Method</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/mean-shift-tracking/">Mean-Shift Tracking</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/image-processing/">Image Processing</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/cctv-surveillance/">CCTV Surveillance</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/traffic-light-monitoring/">Traffic Light Monitoring</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 Achmad Rahman Mawardi</span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a>, <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a>, &amp;
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">hugo-website</a>.
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>

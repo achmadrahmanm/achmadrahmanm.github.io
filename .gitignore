@@ -1,4 +1,7 @@
 # Hugo build artifacts
-public/
+public/tags/
+public/terms/
+public/books/
+
 resources/
 .hugo_build.lock
