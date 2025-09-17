@@ -82,7 +82,7 @@ params:
 
   socialIcons:
     - name: CV
-      url: Achmad Rahman Mawardi.pdf
+      url: "Achmad Rahman Mawardi.pdf"
     - name: Email
       url: mailto:achmadrahmanm@gmail.com
     # - name: Zoom
@@ -111,7 +111,7 @@ params:
     hiddenInSingle: true
   label:
     text: "Achmad Rahman Mawardi"
-    icon: favicon.ico
+    icon: "favicon.ico"
     iconHeight: 18
 
 markup:
