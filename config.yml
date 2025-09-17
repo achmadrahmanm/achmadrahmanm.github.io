@@ -59,7 +59,7 @@ params:
     enabled: true
     title: "Achmad Rahman Mawardi"
     subtitle: "I’m a versatile Fullstack Developer with broad experience in building and managing mobile, web, and desktop applications across various industries. My work focuses on creating scalable and efficient digital solutions tailored to business needs."
-    imageUrl: "profile.jpeg"
+    imageUrl: "foto_profile.png"
     imageWidth: 160
     imageHeight: 160
     buttons:
