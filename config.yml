@@ -82,7 +82,7 @@ params:
 
   socialIcons:
     - name: CV
-      url: cv.pdf
+      url: Achmad Rahman Mawardi.pdf
     - name: Email
       url: mailto:achmadrahmanm@gmail.com
     # - name: Zoom
