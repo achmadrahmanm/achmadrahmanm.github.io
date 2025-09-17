@@ -60,8 +60,10 @@ params:
     title: "Achmad Rahman Mawardi"
     subtitle: "I’m a versatile Fullstack Developer with broad experience in building and managing mobile, web, and desktop applications across various industries. My work focuses on creating scalable and efficient digital solutions tailored to business needs."
     imageUrl: "foto_profile.png"
-    imageWidth: 160
-    imageHeight: 160
+    imageWidth: 200
+    imageHeight: 200
+    imageStyle: "object-fit: cover;"
+
     buttons:
       # - name: Papers
       #   url: papers/

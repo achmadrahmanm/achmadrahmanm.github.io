@@ -1,6 +1,6 @@
 ---
 title: "Elasticsearch Database & ELK Stack"
-date: 2005-06-10
+date: 2025-06-10
 aliases:
   - /courses/course2/slides4.pdf
   - /courses/course2/slides1.pdf
@@ -15,13 +15,23 @@ aliases:
   - /courses/course2/quiz3.pdf
   - /courses/course2/quiz4.pdf
   - /courses/course1/ps1.pdf
-tags: ["Database", "Search Engine", "No-SQL Database", "Pipeline", "Product Management"]
+tags:
+  [
+    "Database Design",
+    "Database Developement",
+    "Elasticsearch",
+    "Search Engine",
+    "No-SQL Database",
+    "Database Pipelining",
+    "Data Ingestion",
+    "Continuous Data Streams",
+  ]
 author: "Programmer Zaman Now"
-description: "Kelas belajar elasticsearch dari awal hingga mahir, Mengoptimalkan kemampuan pencarian dan analisis data Anda? Apakah Anda ingin memahami dasar-dasar Elasticsearch yang merupakan salah satu alat terkemuka dalam mengelola data"
-summary: ""
+description: "Mengoptimalkan kemampuan pencarian dan analisis data."
+summary: "Kelas belajar elasticsearch dari awal hingga mahir, Mengoptimalkan kemampuan pencarian dan analisis data Anda? Apakah Anda ingin memahami dasar-dasar Elasticsearch yang merupakan salah satu alat terkemuka dalam mengelola data"
 cover:
-  image: "course1.png"
-  alt: "Programmer Zaman Now"
+  image: "UC-2b4fd554-2f83-4303-a1c7-77a9ad816550.jpg"
+  alt: "Elasticsearch"
   relative: true
 editPost:
   URL: "https://www.udemy.com/certificate/UC-2b4fd554-2f83-4303-a1c7-77a9ad816550/"
@@ -30,83 +40,71 @@ showToc: true
 disableAnchoredHeadings: false
 ---
 
-## Introduction
+## Course Experience and Key Learnings
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions:
+Having completed this comprehensive Elasticsearch course, I want to share the valuable knowledge and insights I gained throughout this learning journey. This course truly delivered on its promise to take students from beginner to advanced level in Elasticsearch and the ELK Stack.
 
-- Why are there irregular verbs?
-- How are Portuguese irregular verbs different from Spanish irregular verbs?
-- What is the role of Latin and Greek in these irregularities?
-- What about irregular verbs in other Romance languages? + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. + Excepteur sint occaecat cupidatat non proident.
+## Part 1: Elasticsearch Fundamentals - What I Learned
 
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+The foundational section provided me with a solid understanding of Elasticsearch's core concepts. I learned how Elasticsearch differs fundamentally from traditional relational databases and why it excels in modern search and analytics scenarios.
 
-## Part 1: Review of Romance languages
+##### Key Takeaways from Lecture Videos
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [Introduction to Elasticsearch](https://youtu.be/example1) – Gained clear understanding of Elasticsearch architecture and real-world use cases
+- [Installation and Setup](https://youtu.be/example2) – Successfully set up Elasticsearch in multiple environments following the step-by-step guide
+- [Basic Concepts and Terminology](https://youtu.be/example3) – Mastered the concepts of indices, documents, and mapping structures
 
-##### Lecture videos
+##### Notes I Compiled
 
-- [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-- [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-- [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
+- [My Elasticsearch Basics Summary](lecture1.pdf)
 
-##### Lecture notes
+##### Recommended Resources That Helped Me
 
-- [Lecture note 1](lecture1.pdf)
+- [Elasticsearch Guide - Getting Started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
+- [Understanding Distributed Search](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-your-data.html)
 
-##### Readings
+## Part 2: Indexing and Search Operations - My Practical Experience
 
-- [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
-- [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-- [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
+This section transformed my understanding of document indexing and search operations. I learned to structure data for optimal search performance and execute complex queries using Elasticsearch's Query DSL.
 
-## Part 2: Portugese irregular verbs
+##### Skills I Developed from Video Content
 
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [Document Indexing and Mapping](https://youtu.be/example4) – Learned to efficiently index documents and create effective field mappings
+- [Search API and Query DSL](https://youtu.be/example5) – Built confidence in constructing complex search queries
+- [Aggregations and Analytics](https://youtu.be/example6) – Gained hands-on experience with data analysis using aggregations
 
-##### Lecture videos
+##### My Study Notes
 
-- [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
-- [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
-- [Lecture video 6](https://youtu.be/79MSNfp1rw0)
+- [Indexing and Search Concepts](lecture2.pdf)
 
-##### Lecture notes
+##### Resources That Enhanced My Learning
 
-- [Lecture note 2](lecture2.pdf)
+- [Mapping and Field Types](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
+- [Query DSL Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
-##### Readings
+## Part 3: ELK Stack Integration - Building Complete Solutions
 
-- [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
-- [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
+The ELK Stack section was particularly valuable as I learned to build end-to-end data pipelines. I gained practical experience with Logstash for data processing and Kibana for creating meaningful visualizations.
 
-## Part 3: Spanish irregular verbs
+##### Practical Skills I Acquired
 
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- [Logstash Data Pipeline](https://youtu.be/example7) – Successfully implemented data ingestion pipelines with Logstash
+- [Kibana Dashboards](https://youtu.be/example8) – Created professional dashboards and visualizations
+- [Real-time Data Monitoring](https://youtu.be/example9) – Built functional real-time monitoring solutions
 
-##### Lecture videos
+##### Essential Resources for Implementation
 
-- [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-- [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-- [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
+- [Logstash Configuration Guide](https://www.elastic.co/guide/en/logstash/current/configuration.html)
 
-##### Basic readings
+##### Advanced Topics I Explored
 
-- [Paper 6](https://pascalmichaillat.org/10.pdf)
+- [Kibana User Guide](https://www.elastic.co/guide/en/kibana/current/index.html)
+- [Beats Data Shippers](https://www.elastic.co/guide/en/beats/libbeat/current/index.html)
 
-##### Advanced readings
+## My Overall Learning Outcome
 
-- [Paper 7](https://pascalmichaillat.org/11.pdf)
-- [Paper 8](https://pascalmichaillat.org/12.pdf)
+Completing this course has equipped me with practical skills in building scalable search solutions and implementing comprehensive data pipelines. I can now confidently work with Elasticsearch in production environments and create data analysis solutions for real-time processing requirements.
 
-## Conclusion
+> Through this course, I've developed the expertise to tackle complex search challenges and contribute meaningfully to data-driven decision making. The knowledge I gained has prepared me to implement Elasticsearch solutions that can handle large-scale, real-time data processing in professional environments.
 
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages.
-
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna.
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm now ready to apply these skills in real-world projects and continue advancing my expertise in the Elasticsearch ecosystem.

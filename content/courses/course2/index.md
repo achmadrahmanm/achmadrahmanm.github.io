@@ -1,115 +1,242 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "Laravel Framework"
+date: 2025-06-02
+tags:
+  [
+    "Web Development",
+    "PHP Framework",
+    "Laravel",
+    "MVC Architecture",
+    "Backend Development",
+    "Eloquent ORM",
+    "API Development",
+    "Full-Stack Development",
+  ]
+author: ["Programmer Zaman Now"]
+description: "Comprehensive Laravel framework course covering fundamentals to advanced concepts."
+summary: "Comprehensive Laravel framework course covering fundamentals to advanced concepts. Learn to build modern web applications with PHP's most popular framework, including MVC architecture, Eloquent ORM, routing, middleware, authentication, and deployment strategies."
 cover:
-    image: "course2.png"
-    alt: "Figure caption"
-    relative: true
+  image: "UC-8c51ffdf-8e5b-4685-b2be-e672a708d253.jpg"
+  alt: "Laravel"
+  relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+  URL: "https://www.udemy.com/certificate/UC-8c51ffdf-8e5b-4685-b2be-e672a708d253/"
+  Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
-
 ---
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+This course documentation shares my learning journey and knowledge gained from the comprehensive Laravel framework course. Laravel is PHP's most popular and elegant web framework, designed to make web development enjoyable and creative. Through this course, I've mastered building modern web applications using Laravel's powerful features.
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
+- **MVC Architecture** - Understanding the Model-View-Controller pattern
+- **Eloquent ORM** - Database interactions made simple and intuitive
+- **Routing & Middleware** - Request handling and application security
+- **Authentication & Authorization** - User management and access control
+- **API Development** - Building RESTful APIs for modern applications
 
-##### Introductory video
+##### Course Reference
 
-+ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
-
-##### Introductory readings
-
-+ [Paper 1](https://pascalmichaillat.org/1.pdf)
-+ [Paper 2](https://pascalmichaillat.org/13.pdf)
+- [Laravel Pemula Sampai Mahir - Udemy](https://www.udemy.com/course/laravel-pemula-sampai-mahir/)
 
 ---
 
-## Part 1: Overview of Early Irish
+## Chapter 1: Laravel Fundamentals
 
-This section reviews the Early Irish language. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+This chapter covers the essential foundations of Laravel framework. I learned how to set up Laravel projects, understand the directory structure, and configure the development environment. The MVC architecture becomes the backbone of every Laravel application, separating concerns and making code more maintainable.
 
-##### Lecture videos
+Key concepts mastered:
 
-+ [Lecture video 1](https://youtu.be/X_mwtm3inEw)
-+ [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
-
-##### Lecture notes
-
-+ [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
-+ [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
-
-##### Readings
-
-+ [Paper 3](https://pascalmichaillat.org/7.pdf)
-+ [Paper 4](https://pascalmichaillat.org/8.pdf)
+- Project setup and configuration
+- Understanding Laravel's file structure
+- Artisan command-line tool usage
+- Environment configuration and debugging
 
 ---
 
-## Part 2: Profanity in Indo-European Languages
+## Chapter 2: Database and Eloquent ORM
 
-This section introduces profanity in Indo-European languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
+Laravel's Eloquent ORM revolutionizes database interactions by providing an elegant ActiveRecord implementation. This chapter explores database migrations, model relationships, and query building techniques that make database operations intuitive and secure.
 
-> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor.
+Core learning outcomes:
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor. Quisque id eros sit amet enim tempor pellentesque. Suspendisse tincidunt risus a vehicula tincidunt. Nullam sollicitudin libero et ex cursus ultrices. Phasellus sit amet justo vitae nulla hendrerit pretium. Aenean quis velit eu risus pharetra vestibulum. Sed nec risus dolor. Vivamus vel leo ac ante pharetra auctor. Curabitur eleifend sapien non nisl varius, in hendrerit ipsum vehicula. Sed non justo sit amet nisi pharetra fermentum.
-
-##### Lecture videos
-
-+ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
-+ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
-
-##### Compulsory readings
-
-+ [Paper 5](https://pascalmichaillat.org/10.pdf)
-+ [Paper 6](https://pascalmichaillat.org/11.pdf)
-
-##### Optional readings
-
-+ [Paper 7](https://pascalmichaillat.org/2.pdf)
-+ [Paper 8](https://pascalmichaillat.org/4.pdf)
-+ [Paper 9](https://pascalmichaillat.org/5.pdf)
-
-##### Homework
-
-+ [Problem set on profanity in Indo-European languages](problemset.pdf)
+- Database migrations and schema building
+- Eloquent models and relationships (One-to-One, One-to-Many, Many-to-Many)
+- Query builder and advanced database operations
+- Data validation and mass assignment protection
 
 ---
 
-## Part 3: The originality of profanity in Early Irish
+## Chapter 3: Routing and Controllers
 
-This section turns to the various elements that make profanity in Early Irish so original. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Routing in Laravel provides a clean and expressive way to define application endpoints. This chapter demonstrates how to create robust controller logic, handle different HTTP methods, and implement middleware for request filtering and authentication.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Essential skills developed:
 
-##### Lecture videos
+- Route definition and parameter handling
+- Controller creation and resource controllers
+- Middleware implementation for security
+- Request validation and response formatting
 
-+ [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
-+ [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
+---
+
+## Chapter 4: Views and Blade Templating
+
+Laravel's Blade templating engine offers powerful features for creating dynamic and reusable views. This chapter covers template inheritance, component creation, and data passing between controllers and views for building modern user interfaces.
+
+Key achievements:
+
+- Blade syntax and template inheritance
+- Component-based view architecture
+- Form handling and CSRF protection
+- Asset compilation with Laravel Mix
+
+---
+
+## Chapter 5: Form Handling and Validation
+
+This chapter focuses on processing user input through forms and implementing comprehensive validation rules. Laravel's validation system provides robust mechanisms to ensure data integrity and user experience optimization.
+
+Learning outcomes:
+
+- Form request validation classes
+- Custom validation rules and messages
+- File upload and storage handling
+- Error handling and user feedback
+
+---
+
+## Chapter 6: Session and Cookie Management
+
+Understanding session handling and cookie management is crucial for maintaining user state across requests. This chapter explores Laravel's session drivers, flash messaging, and secure cookie implementation.
+
+Key concepts:
+
+- Session configuration and drivers
+- Flash data and temporary storage
+- Cookie encryption and security
+- Shopping cart and user preferences
+
+---
+
+## Chapter 7: Authentication System
+
+Building upon basic authentication, this chapter implements complete user authentication systems including registration, login, password reset, and email verification functionalities.
+
+Implementation details:
+
+- User registration and email verification
+- Password reset functionality
+- Remember me tokens
+- Multi-guard authentication systems
+
+---
+
+## Chapter 8: Authorization and Policies
+
+Laravel's authorization system provides granular access control through gates and policies. This chapter demonstrates implementing role-based permissions and protecting application resources.
+
+Authorization features:
+
+- Gates and policy definitions
+- Role-based access control
+- Resource-based permissions
+- Middleware authorization checks
+
+---
+
+## Chapter 9: RESTful API Development
+
+This chapter focuses on building robust RESTful APIs using Laravel. Learn to create API endpoints, handle JSON responses, and implement API authentication using tokens and Sanctum.
+
+API development skills:
+
+- RESTful resource controllers
+- API resource transformations
+- Token-based authentication
+- API rate limiting and throttling
+
+---
+
+## Chapter 10: Testing and Quality Assurance
+
+Testing ensures application reliability and maintainability. This chapter covers unit testing, feature testing, and test-driven development practices using Laravel's built-in testing tools.
+
+Testing methodologies:
+
+- PHPUnit integration and test structure
+- Feature and unit test creation
+- Database testing and factories
+- Mock objects and test doubles
+
+---
+
+## Chapter 11: Email and Notifications
+
+Laravel's notification system provides unified API for sending notifications across multiple channels. This chapter explores email templates, queue processing, and multi-channel notifications.
+
+Communication features:
+
+- Mailables and email templates
+- Notification channels (email, SMS, database)
+- Queue processing for performance
+- Event-driven notifications
+
+---
+
+## Chapter 12: File Storage and Management
+
+File handling is essential for modern applications. This chapter covers file uploads, storage drivers, image processing, and cloud storage integration for scalable file management.
+
+Storage capabilities:
+
+- File upload and validation
+- Storage drivers and cloud integration
+- Image processing and optimization
+- File security and access control
+
+---
+
+## Chapter 13: Caching and Performance
+
+Performance optimization through caching strategies significantly improves application speed. This chapter explores various caching mechanisms and performance optimization techniques.
+
+Performance optimization:
+
+- Cache drivers and configuration
+- Query result caching
+- View and route caching
+- Database optimization strategies
+
+---
+
+## Chapter 14: Package Development
+
+Laravel's package ecosystem allows extending framework functionality. This chapter teaches creating custom packages, service providers, and publishing reusable components to the Laravel community.
+
+Package development:
+
+- Service provider creation
+- Package structure and configuration
+- Publishing assets and migrations
+- Testing and documentation
+
+---
+
+## Chapter 15: Production Deployment
+
+The final chapter covers deploying Laravel applications to production environments with proper configuration, security measures, and monitoring setup for enterprise-level applications.
+
+Deployment strategies:
+
+- Server configuration and optimization
+- Environment variable management
+- Database migration strategies
+- Monitoring and logging setup
 
 ---
 
 ## Conclusion
 
-This section concludes. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Completing this comprehensive Laravel course has provided me with extensive knowledge to build enterprise-level web applications. From fundamental MVC concepts to advanced topics like package development and production deployment, Laravel's elegant syntax and powerful ecosystem make it the ideal choice for modern web development. The skills gained enable creating scalable, secure, and maintainable applications following industry best practices.
