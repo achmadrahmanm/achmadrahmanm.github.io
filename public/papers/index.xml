@@ -6,14 +6,14 @@
     <description>Recent content in Papers on Achmad Rahman Mawardi</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your Inner Hedgehog</title>
+      <title>Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method</title>
       <link>http://localhost:1313/hugo-website/papers/paper3/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
-      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+      <description>This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
