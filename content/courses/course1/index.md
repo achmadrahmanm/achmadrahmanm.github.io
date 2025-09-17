@@ -17,6 +17,8 @@ aliases:
   - /courses/course1/ps1.pdf
 tags:
   [
+    "Full-Stack Development",
+    "Backend Development",
     "Database Design",
     "Database Developement",
     "Elasticsearch",
