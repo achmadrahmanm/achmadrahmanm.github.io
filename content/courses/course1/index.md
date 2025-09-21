@@ -29,8 +29,9 @@ tags:
     "Continuous Data Streams",
   ]
 author: "Programmer Zaman Now"
-description: "Mengoptimalkan kemampuan pencarian dan analisis data."
-summary: "Kelas belajar elasticsearch dari awal hingga mahir, Mengoptimalkan kemampuan pencarian dan analisis data Anda? Apakah Anda ingin memahami dasar-dasar Elasticsearch yang merupakan salah satu alat terkemuka dalam mengelola data"
+description: "Study from beginner to advanced level in Elasticsearch"
+summary: "Valuable knowledge and insights I gained throughout this learning journey. This course truly delivered on its promise to take students from beginner to advanced level in Elasticsearch and the ELK Stack.
+"
 cover:
   image: "UC-2b4fd554-2f83-4303-a1c7-77a9ad816550.jpg"
   alt: "Elasticsearch"

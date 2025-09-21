@@ -35,9 +35,6 @@
     <loc>http://localhost:1313/hugo-website/courses/course1/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/projects/project1/</loc>
-    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/hugo-website/tags/full-stack-development/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -107,32 +104,68 @@
     <loc>http://localhost:1313/hugo-website/tags/vehicle-detection/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-1/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/api-documentation/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-2/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/code-refactoring/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-3/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/codeigniter/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-4/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/content-management-systems-cms/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-5/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/customer-relationship-management-crm/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-6/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/data-compression/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-7/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/database-development/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-website/tags/keyword-8/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo-website/tags/database-management-system-dbms/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/financial-analysis/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/firebase/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/git/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/javascript/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/jquery/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/object-oriented-programming-oop/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/php/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/postman-api/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-website/projects/</loc>
-    <lastmod>2006-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/projects/project1/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/rest-apis/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/schema-markup/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-website/tags/search-engine-optimization-seo/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-website/archive/</loc>
   </url><url>
