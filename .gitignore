@@ -2,6 +2,9 @@
 public/tags/
 public/terms/
 public/books/
+public/courses/
+public/papers/
+public/projects/
 
 resources/
 .hugo_build.lock

@@ -1,13 +1,13 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
-date: 2013-03-07
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
-summary: "This dataset contains all irregular verbs in known Romance languages."
+title: "Real Estate in Indonesia" 
+date: 2025-09-22
+tags: ["real estate", "indonesia", "property data", "propnex", "property listings", "market analysis"]
+author: ["Achmad Rahman Mawardi"]
+description: "This a public data that extracted for educational or experiment, base on scale of PropNex."
+summary: "This dataset may vary on each branch depend on total agent and total product listing that shown in propnexplus.com"
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "GitHub repository"
+    URL: "https://propnexplus.com"
+    Text: "PropNex Plus"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -15,44 +15,32 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This dataset contains comprehensive real estate property listings from PropNex Plus, one of Indonesia's leading property platforms. The data includes property details, pricing information, location data, and agent contacts across major Indonesian cities. PropNex Plus maintains thousands of active property listings ranging from residential homes, apartments, commercial spaces, to land parcels. The platform's visibility on Google search results makes it a reliable source for property market analysis, with consistent indexing and high search ranking for property-related queries in Indonesia. This dataset is valuable for market research, price analysis, and understanding property distribution patterns across different regions.
 
 ---
 
 ## View dataset
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
-+ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
++ Residential Properties: [data](https://github.com/pmichaillat/feru)
++ Commercial Properties: [data](https://github.com/pmichaillat/unemployment-gap)
++ Land Listings: [data](https://github.com/pmichaillat/job-rationing)
++ Rental Properties: [data](https://github.com/pmichaillat/countercyclical-multiplier)
 
 ---
 
 ## Source of data
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+The data is extracted from PropNexPlus.com, which serves as a comprehensive property marketplace in Indonesia. PropNex Plus aggregates listings from certified real estate agents and agencies across the country. The platform maintains real-time updates of property availability, pricing, and detailed specifications. All data points include verification status, agent credentials, and property documentation compliance with Indonesian real estate regulations.
 
 ---
 
 ## Using data with Python
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The following code demonstrates how to process and analyze the PropNex property dataset using Python. This includes data loading, cleaning, and basic statistical analysis of property prices and locations.
 
 ### Start Python:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Import the necessary libraries for data manipulation and analysis.
 
 ```python
 import numpy as np
@@ -61,17 +49,16 @@ import pandas as pd
 
 ### Open the file:
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat `data.csv`.
+Load the PropNex property data from the CSV file `propnex_data.csv`.
 
 ```python
-file_path = 'data.csv'
+file_path = 'propnex_data.csv'
 with open(file_path, 'r') as file:
 ```
 
 ### Read data:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+Read all lines from the property dataset file for processing.
 
 ```python
     lines = file.readlines()
@@ -79,8 +66,7 @@ cillum dolore eu fugiat nulla pariatur.
 
 ### Parse and process data:
 
-Duis aute `line_data` irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur `data.extend`.
+Extract and convert property price data from each line in the dataset.
 
 ```python
 data = []
@@ -92,7 +78,7 @@ for line in lines:
 
 #### Compute summary statistics using NumPy:
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
+Calculate statistical measures for the property price dataset using `data_array`. 
 
 ```python
 data_array = np.array(data)  # Convert the list to a NumPy array
@@ -105,10 +91,7 @@ max_value = np.max(data_array)
 
 #### Display summary statistics:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat `print`.
+Output the calculated statistical summary of property prices using formatted print statements.
 
 ```python
 print(f"Mean: {mean}")
@@ -119,14 +102,3 @@ print(f"Maximum Value: {max_value}")
 ```
 
 ---
-
-## Description of simulation parameters
-
-| Parameter |   Value   |  Language  | Time period |           Description            |
-| :-------: | :-------: | ---------- | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
-| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |

@@ -4,7 +4,7 @@
     <title>Papers on Achmad Rahman Mawardi</title>
     <link>http://localhost:1313/hugo-website/papers/</link>
     <description>Recent content in Papers on Achmad Rahman Mawardi</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
@@ -14,20 +14,6 @@
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
       <description>This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.</description>
-    </item>
-    <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/hugo-website/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
-    </item>
-    <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>http://localhost:1313/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
   </channel>
 </rss>

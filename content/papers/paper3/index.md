@@ -3,14 +3,14 @@ title: "Vehicle Classification and Violation Detection on Traffic Light Area usi
 date: 2021-10-12
 tags:
   [
-    "computer vision",
-    "vehicle detection",
-    "traffic violation detection",
-    "BLOB method",
-    "mean-shift tracking",
-    "image processing",
-    "CCTV surveillance",
-    "traffic light monitoring",
+    "Computer Vision",
+    "Vehicle Detection",
+    "Traffic Violation Detection",
+    "BLOB Method",
+    "Mean-Shift Tracking",
+    "Image Processing",
+    "CCTV Surveillance",
+    "Traffic Light Monitoring",
   ]
 author:
   [
@@ -34,7 +34,7 @@ editPost:
 ##### Download
 
 - [Paper](paper3.pdf)
-- [Raw data](https://github.com/pmichaillat/michez-rule)
+- [Raw data](paper_books3.pdf)
 
 ---
 
