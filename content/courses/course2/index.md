@@ -1,6 +1,6 @@
 ---
 title: "Laravel Framework"
-date: 2025-06-02
+date: 2025-09-16
 tags:
   [
     "Web Development",

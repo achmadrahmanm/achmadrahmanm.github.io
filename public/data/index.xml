@@ -4,9 +4,16 @@
     <title>Data on Achmad Rahman Mawardi</title>
     <link>http://localhost:1313/hugo-website/data/</link>
     <description>Recent content in Data on Achmad Rahman Mawardi</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-website/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Estate in Indonesia</title>
+      <link>http://localhost:1313/hugo-website/data/data1/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/data/data1/</guid>
+      <description>This a public data that extracted for educational or experiment, base on scale of PropNex.</description>
+    </item>
   </channel>
 </rss>

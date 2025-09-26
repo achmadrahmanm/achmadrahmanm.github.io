@@ -1,6 +1,6 @@
 ---
 title: "Elasticsearch Database & ELK Stack"
-date: 2025-06-10
+date: 2025-07-24
 aliases:
   - /courses/course2/slides4.pdf
   - /courses/course2/slides1.pdf

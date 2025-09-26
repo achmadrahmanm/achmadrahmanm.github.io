@@ -5,7 +5,7 @@ date: 2021-01-01
 tags:
   [
     "Full-Stack Development",
-    "Backend Development", 
+    "Backend Development",
     "Database Design",
     "Database Development",
     "Elasticsearch",
@@ -33,14 +33,14 @@ tags:
     "Data Compression",
     "JavaScript",
     "Object-Oriented Programming (OOP)",
-    "Financial Analysis"
+    "Financial Analysis",
   ]
 author: "Achmad Rahman M, & Team"
 description: "PropNexPlus.com is a comprehensive real estate platform designed specifically for property agents to streamline their daily operations."
 summary: "PropNexPlus.com is a comprehensive real estate platform designed specifically for property agents to streamline their daily operations. The platform helps agents manage property listings, client interactions, and various real estate services including property search functionality, agent profiles, and integrated CRM tools for lead generation and customer relationship management.a"
 cover:
   image: "project1.png"
-  alt: "Elasticsearch"
+  alt: "propnexplus.com"
   relative: true
 editPost:
   URL: "https://propnexplus.com/"
