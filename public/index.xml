@@ -6,8 +6,15 @@
     <description>Recent content on Achmad Rahman Mawardi</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rumahgue.com - Youth Property Platform Initiative</title>
+      <link>http://localhost:1313/projects/project12/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project12/</guid>
+      <description>Strategic new PropNex digital initiative targeting Indonesian millennial and Gen-Z property buyers through modern, relatable platform focusing on financial and property education. Currently in planning and C-level approval phase, demonstrating comprehensive project lifecycle management from ideation to execution.</description>
+    </item>
     <item>
       <title>Kerja Praktik Management System - ITS Surabaya</title>
       <link>http://localhost:1313/projects/project9/</link>
@@ -58,6 +65,13 @@
       <description>Study from beginner to advanced level in Elasticsearch</description>
     </item>
     <item>
+      <title>PropNex Multi-Bank Mortgage System - KPR Integration Platform</title>
+      <link>http://localhost:1313/projects/project11/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project11/</guid>
+      <description>Enterprise mortgage application management system enabling PropNex agents to seamlessly submit KPR (Kredit Pemilikan Rumah) applications to Indonesia&amp;#39;s 4 leading banks: OCBC, BCA, Maybank, and Permata. Single data input automatically generates bank-specific forms, revolutionizing the mortgage application workflow for real estate agents.</description>
+    </item>
+    <item>
       <title>Git Version Control</title>
       <link>http://localhost:1313/courses/course3/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
@@ -77,6 +91,13 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Achmad Rahman&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>PropNex Plus Multi-Platform Integration - rumah123, lamudi &amp; OLX</title>
+      <link>http://localhost:1313/projects/project10/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project10/</guid>
+      <description>Enterprise-level property listing integration system connecting PropNex Plus with Indonesia&amp;#39;s leading property portals: rumah123, lamudi, and OLX. Automated multi-platform listing distribution with premium account filtering, ensuring only paid agent listings are synchronized across platforms through robust API integrations.</description>
     </item>
     <item>
       <title>Inkelud for Kediri Gov.</title>
