@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Achmad Rahman Mawardi</title>
-    <link>http://localhost:1313/hugo-website/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Achmad Rahman Mawardi</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kerja Praktik Management System - ITS Surabaya</title>
-      <link>http://localhost:1313/hugo-website/projects/project9/</link>
+      <link>http://localhost:1313/projects/project9/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project9/</guid>
+      <guid>http://localhost:1313/projects/project9/</guid>
       <description>Comprehensive internship management system for Institut Teknologi Sepuluh Nopember (ITS) Surabaya, streamlining the entire internship process from application to evaluation. Built with Laravel and designed in Figma, serving three distinct user roles: students, lecturers, and administrative staff.</description>
     </item>
     <item>
       <title>Real Estate in Indonesia</title>
-      <link>http://localhost:1313/hugo-website/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This a public data that extracted for educational or experiment, base on scale of PropNex.</description>
     </item>
     <item>
       <title>NodeJS</title>
-      <link>http://localhost:1313/hugo-website/courses/course5/</link>
+      <link>http://localhost:1313/courses/course5/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course5/</guid>
+      <guid>http://localhost:1313/courses/course5/</guid>
       <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
     </item>
     <item>
       <title>Docker Platform</title>
-      <link>http://localhost:1313/hugo-website/courses/course4/</link>
+      <link>http://localhost:1313/courses/course4/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course4/</guid>
+      <guid>http://localhost:1313/courses/course4/</guid>
       <description>Comprehensive Docker platform course covering containerization fundamentals to advanced container orchestration and deployment strategies.</description>
     </item>
     <item>
       <title>Laravel Framework</title>
-      <link>http://localhost:1313/hugo-website/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>Comprehensive Laravel framework course covering fundamentals to advanced concepts.</description>
     </item>
     <item>
       <title>PropNex Indonesia Merch Store - E-Commerce Platform</title>
-      <link>http://localhost:1313/hugo-website/projects/project7/</link>
+      <link>http://localhost:1313/projects/project7/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project7/</guid>
+      <guid>http://localhost:1313/projects/project7/</guid>
       <description>A comprehensive e-commerce platform for PropNex Indonesia merchandise, revolutionizing internal product distribution with payment gateway and JNT shipping integration. Built with Laravel, the platform facilitated cross-branch partnerships and increased merch sales by 50% after 1 month of rigorous testing.</description>
     </item>
     <item>
       <title>Elasticsearch Database &amp; ELK Stack</title>
-      <link>http://localhost:1313/hugo-website/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>Study from beginner to advanced level in Elasticsearch</description>
     </item>
     <item>
       <title>Git Version Control</title>
-      <link>http://localhost:1313/hugo-website/courses/course3/</link>
+      <link>http://localhost:1313/courses/course3/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course3/</guid>
+      <guid>http://localhost:1313/courses/course3/</guid>
       <description>Comprehensive Git version control course covering fundamentals to advanced repository management.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/hugo-website/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Achmad Rahman&amp;#39;s mailing and office addresses at the PropNex Indonesia.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/hugo-website/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Achmad Rahman&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>Inkelud for Kediri Gov.</title>
-      <link>http://localhost:1313/hugo-website/projects/project3/</link>
+      <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project3/</guid>
+      <guid>http://localhost:1313/projects/project3/</guid>
       <description>Inkelud for Kediri Government is a comprehensive government dashboard website designed to streamline city data management and ensure seamless data accessibility without RTO (Recovery Time Objective) issues.</description>
     </item>
     <item>
       <title>Gapih.com Landing Page</title>
-      <link>http://localhost:1313/hugo-website/projects/project4/</link>
+      <link>http://localhost:1313/projects/project4/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project4/</guid>
+      <guid>http://localhost:1313/projects/project4/</guid>
       <description>Gapih.com is a static landing page website for an API Hub payment gateway platform, serving as the primary introduction to Korea&amp;#39;s leading payment solution connecting millions of users, financial institutions, and merchants.</description>
     </item>
     <item>
       <title>Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and Mean-Shift Tracking Method</title>
-      <link>http://localhost:1313/hugo-website/papers/paper3/</link>
+      <link>http://localhost:1313/papers/paper3/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper3/</guid>
+      <guid>http://localhost:1313/papers/paper3/</guid>
       <description>This paper talk about Computer vision system was built to recognize vehicles (cars and motorcycles) and to recognize violations committed by drivers at road intersections.</description>
     </item>
     <item>
       <title>PropNex Plus</title>
-      <link>http://localhost:1313/hugo-website/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>PropNexPlus.com is a comprehensive real estate platform designed specifically for property agents to streamline their daily operations.</description>
     </item>
     <item>
       <title>Arraya Solution - Cleaning Service Website</title>
-      <link>http://localhost:1313/hugo-website/projects/project5/</link>
+      <link>http://localhost:1313/projects/project5/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project5/</guid>
+      <guid>http://localhost:1313/projects/project5/</guid>
       <description>Arraya Solution is a comprehensive website for a cleaning service business, featuring full functionality from customer engagement to admin management. Built for UMKM with budget constraints, delivered within 1 month.</description>
     </item>
     <item>
       <title>PropNex Indonesia Annual Convention - Digital Invitation Platform</title>
-      <link>http://localhost:1313/hugo-website/projects/project6/</link>
+      <link>http://localhost:1313/projects/project6/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project6/</guid>
+      <guid>http://localhost:1313/projects/project6/</guid>
       <description>An elegant single-page Laravel application for PropNex Indonesia&amp;#39;s Annual Convention with full animations, RSVP management, and sponsorship proposal system. Delivered in 1 week with sophisticated transitions and interactive features for Singapore&amp;#39;s leading real estate company&amp;#39;s annual event.</description>
     </item>
     <item>
       <title>PropNex Company Profile</title>
-      <link>http://localhost:1313/hugo-website/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project2/</guid>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>PropNex.co.id is the official landing page for PropNex Indonesia, a leading real estate company providing comprehensive property services and solutions.</description>
     </item>
     <item>
       <title>EAMS - Estate Agency Management System</title>
-      <link>http://localhost:1313/hugo-website/projects/project8/</link>
+      <link>http://localhost:1313/projects/project8/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/project8/</guid>
+      <guid>http://localhost:1313/projects/project8/</guid>
       <description>EAMS (Estate Agency Management System) is the core enterprise platform maintaining PropNex Indonesia&amp;#39;s entire business ecosystem. A comprehensive Laravel-based system managing agents, properties, transactions, commissions, and business operations for 500&#43; real estate professionals across multiple branches nationwide.</description>
     </item>
   </channel>
