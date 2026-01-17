@@ -6,8 +6,15 @@
     <description>Recent content on Achmad Rahman Mawardi</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kerja Praktik Management System - ITS Surabaya</title>
+      <link>http://localhost:1313/hugo-website/projects/project9/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project9/</guid>
+      <description>Comprehensive internship management system for Institut Teknologi Sepuluh Nopember (ITS) Surabaya, streamlining the entire internship process from application to evaluation. Built with Laravel and designed in Figma, serving three distinct user roles: students, lecturers, and administrative staff.</description>
+    </item>
     <item>
       <title>Real Estate in Indonesia</title>
       <link>http://localhost:1313/hugo-website/data/data1/</link>
@@ -35,6 +42,13 @@
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
       <description>Comprehensive Laravel framework course covering fundamentals to advanced concepts.</description>
+    </item>
+    <item>
+      <title>PropNex Indonesia Merch Store - E-Commerce Platform</title>
+      <link>http://localhost:1313/hugo-website/projects/project7/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project7/</guid>
+      <description>A comprehensive e-commerce platform for PropNex Indonesia merchandise, revolutionizing internal product distribution with payment gateway and JNT shipping integration. Built with Laravel, the platform facilitated cross-branch partnerships and increased merch sales by 50% after 1 month of rigorous testing.</description>
     </item>
     <item>
       <title>Elasticsearch Database &amp; ELK Stack</title>
@@ -100,11 +114,25 @@
       <description>Arraya Solution is a comprehensive website for a cleaning service business, featuring full functionality from customer engagement to admin management. Built for UMKM with budget constraints, delivered within 1 month.</description>
     </item>
     <item>
+      <title>PropNex Indonesia Annual Convention - Digital Invitation Platform</title>
+      <link>http://localhost:1313/hugo-website/projects/project6/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project6/</guid>
+      <description>An elegant single-page Laravel application for PropNex Indonesia&amp;#39;s Annual Convention with full animations, RSVP management, and sponsorship proposal system. Delivered in 1 week with sophisticated transitions and interactive features for Singapore&amp;#39;s leading real estate company&amp;#39;s annual event.</description>
+    </item>
+    <item>
       <title>PropNex Company Profile</title>
       <link>http://localhost:1313/hugo-website/projects/project2/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-website/projects/project2/</guid>
       <description>PropNex.co.id is the official landing page for PropNex Indonesia, a leading real estate company providing comprehensive property services and solutions.</description>
+    </item>
+    <item>
+      <title>EAMS - Estate Agency Management System</title>
+      <link>http://localhost:1313/hugo-website/projects/project8/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/project8/</guid>
+      <description>EAMS (Estate Agency Management System) is the core enterprise platform maintaining PropNex Indonesia&amp;#39;s entire business ecosystem. A comprehensive Laravel-based system managing agents, properties, transactions, commissions, and business operations for 500&#43; real estate professionals across multiple branches nationwide.</description>
     </item>
   </channel>
 </rss>

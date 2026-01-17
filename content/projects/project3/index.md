@@ -31,8 +31,11 @@ editPost:
   URL: "https://inkelud.kedirikab.go.id/"
   Text: "Released Website"
 showToc: true
+TocOpen: false
 disableAnchoredHeadings: false
 ---
+
+![Inkelud for Kediri Government](project3.png)
 
 ## Project Overview
 

@@ -31,8 +31,11 @@ editPost:
   URL: "https://gapih.com/"
   Text: "Visit Landing Page"
 showToc: true
+TocOpen: false
 disableAnchoredHeadings: false
 ---
+
+![Gapih.com Landing Page](project4.png)
 
 ## Project Overview
 

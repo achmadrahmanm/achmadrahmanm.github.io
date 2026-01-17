@@ -34,8 +34,11 @@ editPost:
   URL: "#"
   Text: "View Project Details"
 showToc: true
+TocOpen: false
 disableAnchoredHeadings: false
 ---
+
+![Arraya Solution Cleaning Service](project5.jpg)
 
 ## Project Overview
 

@@ -46,8 +46,11 @@ editPost:
   URL: "https://propnex.co.id/"
   Text: "Released Website"
 showToc: true
+TocOpen: false
 disableAnchoredHeadings: false
 ---
+
+![PropNex Company Profile](project2.png)
 
 ## Project Overview
 
