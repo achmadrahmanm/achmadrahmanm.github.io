@@ -33,12 +33,9 @@ menu:
     - name: LinkedIn
       url: https://www.linkedin.com/in/achmadrahman/
       weight: 6
-    - name: GitHub
-      url: https://github.com/achmadrahmanm
-      weight: 7
     - name: FastWork
       url: https://fastwork.id/user/achmadrahmanm
-      weight: 8
+      weight: 7
 
 params:
   description: "Achmad Rahman Mawardi, Master of none"
@@ -88,10 +85,6 @@ params:
         url: tags/
       # - name: Archive
       #   url: archive/
-      - name: LinkedIn
-        url: https://www.linkedin.com/in/achmadrahman/
-      - name: GitHub
-        url: https://github.com/achmadrahmanm
       - name: FastWork
         url: https://fastwork.id/user/achmadrahmanm
 
