@@ -21,18 +21,18 @@ menu:
     - name: Projects
       url: projects/
       weight: 1
-    - name: Courses
-      url: courses/
-      weight: 3
-    - name: Papers
-      url: papers/
-      weight: 4
+    # - name: Courses
+    #   url: courses/
+    #   weight: 3
+    # - name: Papers
+    #   url: papers/
+    #   weight: 4
     - name: Tags
       url: tags/
       weight: 5
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/achmadrahman/
-      weight: 6
+    # - name: LinkedIn
+    #   url: https://www.linkedin.com/in/achmadrahman/
+    #   weight: 6
     - name: FastWork
       url: https://fastwork.id/user/achmadrahmanm
       weight: 7
@@ -85,6 +85,8 @@ params:
         url: tags/
       # - name: Archive
       #   url: archive/
+      - name: LinkedIn
+        url: https://www.linkedin.com/in/achmadrahman/
       - name: FastWork
         url: https://fastwork.id/user/achmadrahmanm
 
