@@ -37,11 +37,11 @@ tags:
   "automated-testing"
 ]
 
-author: ["Decoding"]
+author: ["Dicoding"]
 description: "Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices."
 summary: "Master NodeJS from fundamentals to advanced backend development. Learn JavaScript runtime environment, asynchronous programming concepts, Express.js framework implementation, database connectivity with MongoDB, RESTful API creation, user authentication with JWT, real-time communication using WebSockets, middleware development, error handling, testing strategies, and deployment techniques for production-ready NodeJS applications in modern web development workflows."
 cover:
-  image: "Screenshot 2026-02-12 232927.png"
+  image: "Screenshot 2026-02-12 233331.png"
   alt: "Dasar Pemrograman JavaScript"
   relative: true
 editPost:
