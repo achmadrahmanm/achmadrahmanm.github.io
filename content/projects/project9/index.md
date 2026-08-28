@@ -25,8 +25,8 @@ cover:
   alt: "ITS Surabaya Kerja Praktik Management System"
   relative: false
 editPost:
-  URL: "#"
-  Text: "View Project Details"
+  URL: "https://kpelektro.e55techlab.com/"
+  Text: "Visit Project"
 showToc: true
 TocOpen: false
 disableAnchoredHeadings: false

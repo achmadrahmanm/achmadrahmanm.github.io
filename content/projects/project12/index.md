@@ -29,8 +29,8 @@ cover:
   alt: "rumahgue.com - Youth Property Platform"
   relative: false
 editPost:
-  URL: "#"
-  Text: "Project In Planning Phase"
+  URL: "https://rumahgue.com/"
+  Text: "Visit Project"
 showToc: true
 TocOpen: false
 disableAnchoredHeadings: false
