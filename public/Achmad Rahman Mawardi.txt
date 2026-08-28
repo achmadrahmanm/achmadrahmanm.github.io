@@ -1,0 +1,153 @@
+ACHMAD RAHMAN MAWARDI
+
+Full-Stack Developer | PropTech | Integrasi Sistem | Pengembangan Platform Enterprise
+
+Surabaya, Indonesia | 081803793442 | achmadrahmanm@gmail.com
+LinkedIn: https://www.linkedin.com/in/achmadrahman/
+Portofolio: https://achmadrahmanm.github.io/
+
+PROFIL PROFESIONAL
+
+Full-Stack Developer dengan pengalaman sejak 2019 dalam merancang, mengembangkan,
+mengintegrasikan, dan memelihara aplikasi web enterprise. Berpengalaman di bidang
+teknologi properti, e-commerce, FinTech, pendidikan, pemerintahan, serta pengelolaan
+sistem produksi. Menguasai pengembangan backend dengan Laravel dan CodeIgniter,
+integrasi REST API, desain basis data MySQL, Elasticsearch, Redis, autentikasi berbasis
+peran, otomasi dokumen, serta deployment dan optimasi performa. Terbiasa menerjemahkan
+kebutuhan bisnis menjadi solusi teknis yang terukur, aman, dan mudah dipelihara.
+
+PENGALAMAN KERJA
+
+PropNex Indonesia, Surabaya                                      Jan 2022 - Sekarang
+Full-Stack Web Developer
+
+- Mengembangkan dan memelihara sistem digital PropNex, termasuk platform listing,
+  integrasi vendor, CRM, dashboard manajemen, dan layanan pendukung operasional.
+- Mengembangkan integrasi distribusi listing dengan Rumah123, Lamudi, OLX, Trovit,
+  dan Dot Property melalui API serta mekanisme sinkronisasi lintas platform.
+- Meningkatkan jumlah listing aktif hingga 40% per tahun, mencapai sekitar 230.000
+  listing, melalui pengembangan platform dan perluasan kanal distribusi digital.
+- Mengimplementasikan Elasticsearch untuk meningkatkan relevansi pencarian dan Redis
+  untuk caching serta peningkatan performa aplikasi hingga 250% berdasarkan metrik
+  internal proyek.
+- Menangani traffic tinggi menggunakan load balancer dan berkolaborasi dengan vendor
+  eksternal untuk menjaga stabilitas integrasi dan layanan produksi.
+- Memimpin inisiatif produk, mulai dari analisis peluang, penyusunan kebutuhan,
+  definisi KPI, perencanaan anggaran, hingga persiapan presentasi kepada manajemen.
+
+PropNex Indonesia, Surabaya                                      Jan 2021 - Des 2021
+Junior Full-Stack Web Developer
+
+- Mengembangkan Feedback Rating System untuk mendukung peningkatan kualitas layanan.
+- Mengelola CI/CD, alokasi sumber daya server, dan pemeliharaan infrastruktur lokal
+  serta cloud pada lingkungan produksi.
+- Mengembangkan laporan traffic dan lead untuk mendukung kebutuhan agent serta mitra.
+- Membangun dashboard manajemen dengan pemantauan data secara real-time untuk
+  principal dan pemegang saham PropNex.
+
+PropNex Indonesia, Surabaya                                      Mei 2019 - Jan 2021
+Frontend Web Developer
+
+- Merancang dan mengembangkan halaman web yang responsif, ramah pengguna, dan
+  berorientasi pada performa.
+- Mengoptimalkan SEO teknis dan integrasi Google Webmaster Tools, termasuk penerapan
+  schema markup dan optimasi kata kunci.
+- Mempublikasikan dan membantu mengindeks lebih dari 100.000 halaman di Google.
+- Memperbarui UI website lokal hingga menghasilkan sekitar 10.000 kunjungan per bulan
+  dan meningkatkan visibilitas untuk kata kunci yang ditargetkan.
+
+PROYEK TERPILIH
+
+[PropNex Plus](https://propnexplus.com/)
+Platform real estate untuk pengelolaan listing, profil agent, CRM, lead, analitik,
+dan pencarian properti. Berkontribusi pada Laravel/CodeIgniter, MySQL, Elasticsearch,
+Firebase, REST API, optimasi gambar, serta SEO.
+Rilis: https://propnexplus.com/
+
+[PropNex Company Profile](https://propnex.co.id/)
+Website resmi PropNex Indonesia dengan CMS, pengelolaan konten multi-cabang,
+integrasi AWS S3/CloudFront, optimasi performa, dan pemeliharaan berkelanjutan.
+Rilis: https://propnex.co.id/
+
+[PropNex Plus Multi-Platform Integration](https://achmadrahmanm.github.io/projects/project10/)
+Integrasi distribusi listing ke Rumah123, Lamudi, dan OLX dengan validasi akun premium,
+sinkronisasi otomatis, queue Redis, pemetaan data, retry, logging, dan monitoring API.
+Detail proyek: https://achmadrahmanm.github.io/projects/project10/
+
+[PropNex Multi-Bank Mortgage System](https://docs.google.com/presentation/d/1XNCuoaiswvRkDbPLH8OH_CvrCy8b5qX9yU3G7xN2kus/edit?slide=id.g349e711ea7e_2_113#slide=id.g349e711ea7e_2_113)
+Platform pengajuan KPR yang mengubah satu input data menjadi formulir khusus untuk
+OCBC, BCA, Maybank, dan Permata. Mencakup portal agent, portal admin bank, validasi,
+pelacakan status, serta otomasi dokumen PDF/Excel. Proyek berjalan.
+Presentasi proyek: https://docs.google.com/presentation/d/1XNCuoaiswvRkDbPLH8OH_CvrCy8b5qX9yU3G7xN2kus/edit?slide=id.g349e711ea7e_2_113#slide=id.g349e711ea7e_2_113
+
+[rumahgue.com - Inisiatif Platform Properti untuk Generasi Muda](https://rumahgue.com/)
+Inisiatif strategis PropNex untuk menjangkau milenial dan Gen Z melalui edukasi
+keuangan, pengetahuan properti, serta pengembangan prospek pembeli sejak dini.
+Berperan dalam analisis peluang, perumusan value proposition, KPI, kebutuhan produk,
+dan perencanaan teknis. Status: pra-pengembangan dan menunggu persetujuan manajemen.
+URL inisiatif: https://rumahgue.com/
+
+[EAMS - Estate Agency Management System](https://achmadrahmanm.github.io/projects/project8/)
+Sistem inti operasional PropNex untuk pengelolaan agent, properti, transaksi, komisi,
+laporan, cabang, dan integrasi antarsistem. Berkontribusi pada pemeliharaan,
+pengembangan fitur, optimasi database, reliability, dan dukungan sistem produksi.
+Detail proyek: https://achmadrahmanm.github.io/projects/project8/
+
+[PropNex Indonesia Merch Store](https://achmadrahmanm.github.io/projects/project7/)
+Platform e-commerce internal berbasis Laravel dengan katalog multi-cabang, inventori,
+payment gateway, integrasi JNT, pelacakan pesanan, dan panel admin. Mencatat peningkatan
+penjualan sebesar 50% setelah pengujian dan iterasi selama satu bulan.
+Detail proyek: https://achmadrahmanm.github.io/projects/project7/
+
+[Inkelud untuk Pemerintah Kabupaten Kediri](https://inkelud.kedirikab.go.id/)
+Dashboard pemerintahan dengan REST API, pengelolaan data kota, deployment ke server
+pemerintah melalui VPN, serta pemeliharaan selama tiga bulan.
+Rilis: https://inkelud.kedirikab.go.id/
+
+[Kerja Praktik Management System - ITS Surabaya](https://kpelektro.e55techlab.com/)
+Platform manajemen kerja praktik berbasis Laravel dan REST API untuk mahasiswa,
+dosen, dan admin. Mencakup alur pengajuan, penempatan, supervisi, laporan, evaluasi,
+dan rancangan UI/UX di Figma. Proyek berjalan.
+Rilis: https://kpelektro.e55techlab.com/
+
+[Gapih.com Landing Page](https://gapih.com/)
+Landing page platform payment gateway API Hub yang dikembangkan dengan CodeIgniter
+dan di-deploy pada AWS.
+Rilis: https://gapih.com/
+
+[PropNex Indonesia Annual Convention](https://achmadrahmanm.github.io/projects/project6/)
+Aplikasi undangan digital berbasis Laravel dengan animasi, RSVP, konfirmasi email,
+portal proposal sponsor, dan dukungan check-in. Diselesaikan dalam satu minggu.
+Detail proyek: https://achmadrahmanm.github.io/projects/project6/
+
+[Arraya Solution - Cleaning Service Website](https://achmadrahmanm.github.io/projects/project5/)
+Website bisnis UMKM berbasis CodeIgniter dengan CMS, layanan, harga, testimoni,
+integrasi WhatsApp dan email, serta panel admin. Diselesaikan dalam satu bulan.
+Detail proyek: https://achmadrahmanm.github.io/projects/project5/
+
+PENDIDIKAN
+
+Politeknik Elektronika Negeri Surabaya (PENS), Surabaya          Okt 2014 - Okt 2018
+Sarjana Teknik Komputer | IPK 3,59/4,00
+- Kepala Divisi Komunikasi dan Informasi, Himpunan Mahasiswa Teknik Komputer.
+- Staf Divisi Komunikasi dan Informasi, BSO Teknik Komputer.
+- Peserta kerja praktik teknikal di Fasilitas Pemeliharaan dan Perbaikan Kapal Perang
+  TNI Angkatan Laut.
+
+KOMPETENSI TEKNIS
+
+- Backend: Laravel, CodeIgniter, PHP, REST API, MVC, OOP, validasi, autentikasi,
+  role-based access control, queue dan background jobs.
+- Frontend: HTML, CSS, JavaScript, jQuery, Vue.js, Bootstrap, responsive UI, Figma.
+- Data dan performa: MySQL, Elasticsearch, Firebase, Redis, desain skema, indexing,
+  caching, data ingestion, optimasi query, dan pemrosesan gambar.
+- Integrasi dan infrastruktur: API pihak ketiga, OAuth/API key, webhook, AWS S3,
+  CloudFront, Docker, CI/CD, load balancer, logging, monitoring, dan deployment.
+- Produk dan kolaborasi: analisis kebutuhan, perencanaan produk, definisi KPI,
+  dokumentasi API dengan Postman, koordinasi vendor, dan pemeliharaan sistem produksi.
+
+PUBLIKASI
+
+Vehicle Classification and Violation Detection on Traffic Light Area using BLOB and
+Mean-Shift Tracking Method (2021)
+Penulis: Mochamad Mobed Bachtiar, Achmad Rahman Mawardi, dan Adnan Rachmat Anom Besari.

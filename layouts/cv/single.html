@@ -1,0 +1,33 @@
+{{- define "main" }}
+<article class="cv-page">
+  <div class="cv-actions" aria-label="CV actions">
+    <button type="button" onclick="window.print()">Print / Save PDF</button>
+  </div>
+  <div class="cv-content">{{ .Content }}</div>
+</article>
+<style>
+  .cv-page { max-width: 900px; margin: 0 auto; }
+  .cv-actions { display: flex; justify-content: flex-end; margin-bottom: 1rem; }
+  .cv-actions button { border: 1px solid var(--border); border-radius: 4px; padding: .55rem .85rem; background: var(--theme); color: var(--primary); cursor: pointer; font: inherit; }
+  .cv-content { background: var(--theme); border: 1px solid var(--border); padding: 2.5rem 3rem; color: #202124; font-family: Georgia, "Times New Roman", serif; font-size: 10.5pt; line-height: 1.35; }
+  .cv-content h1 { margin: 0; font-family: Arial, sans-serif; font-size: 25pt; letter-spacing: .02em; line-height: 1.05; }
+  .cv-content h1 + p { margin: .35rem 0 .15rem; font-family: Arial, sans-serif; font-size: 10.5pt; font-weight: 700; }
+  .cv-content h1 + p + p { margin: 0 0 1.2rem; font-family: Arial, sans-serif; font-size: 9.5pt; }
+  .cv-content h2 { border-bottom: 1.5px solid #202124; margin: 1rem 0 .4rem; padding-bottom: .15rem; font-family: Arial, sans-serif; font-size: 11pt; letter-spacing: .08em; text-transform: uppercase; }
+  .cv-content h3 { display: flex; justify-content: space-between; gap: 1rem; margin: .65rem 0 .1rem; font-family: Arial, sans-serif; font-size: 10.5pt; }
+  .cv-content h3 + p { margin: 0 0 .15rem; font-family: Arial, sans-serif; font-size: 10pt; }
+  .cv-content p { margin: .25rem 0; }
+  .cv-content ul { margin: .15rem 0 .45rem; padding-left: 1.15rem; }
+  .cv-content li { margin: .12rem 0; }
+  .cv-content a { color: inherit; text-decoration: underline; }
+  .cv-date { float: right; font-weight: 400; white-space: nowrap; }
+  .cv-content strong { font-family: Arial, sans-serif; }
+  @media print {
+    .header, .footer, .cv-actions { display: none !important; }
+    .main { padding: 0; }
+    .cv-page { max-width: none; }
+    .cv-content { border: 0; padding: 0; }
+    @page { size: A4; margin: 13mm 15mm; }
+  }
+</style>
+{{- end }}

@@ -4,10 +4,66 @@
     <title>Achmad Rahman Mawardi</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Achmad Rahman Mawardi</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Dasar Structured Query Language (SQL)</title>
+      <link>http://localhost:1313/courses/course9/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course9/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Belajar Jaringan Komputer untuk Pemula</title>
+      <link>http://localhost:1313/courses/course6/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course6/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Belajar Penerapan Data Science dengan Microsoft Fabric</title>
+      <link>http://localhost:1313/courses/course8/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course8/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Membangun Aplikasi Gen AI dengan Microsoft Azure</title>
+      <link>http://localhost:1313/courses/course7/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course7/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Belajar Dasar Data Science</title>
+      <link>http://localhost:1313/courses/course14/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course14/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Belajar Dasar AI</title>
+      <link>http://localhost:1313/courses/course13/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course13/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Belajar Dasar-Dasar DevOps</title>
+      <link>http://localhost:1313/courses/course12/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course12/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
+      <title>Memulai Pemrograman dengan Python</title>
+      <link>http://localhost:1313/courses/course15/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course15/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
     <item>
       <title>rumahgue.com - Youth Property Platform Initiative</title>
       <link>http://localhost:1313/projects/project12/</link>
@@ -79,6 +135,13 @@
       <description>Comprehensive Git version control course covering fundamentals to advanced repository management.</description>
     </item>
     <item>
+      <title>Belajar Dasar Pemrograman Web</title>
+      <link>http://localhost:1313/courses/course11/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course11/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
+    </item>
+    <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
@@ -98,6 +161,13 @@
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/project10/</guid>
       <description>Enterprise-level property listing integration system connecting PropNex Plus with Indonesia&amp;#39;s leading property portals: rumah123, lamudi, and OLX. Automated multi-platform listing distribution with premium account filtering, ensuring only paid agent listings are synchronized across platforms through robust API integrations.</description>
+    </item>
+    <item>
+      <title>Belajar Dasar Pemrograman JavaScript</title>
+      <link>http://localhost:1313/courses/course10/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course10/</guid>
+      <description>Complete NodeJS development course covering JavaScript runtime fundamentals, server-side programming, Express.js framework, database integration, RESTful API development, authentication mechanisms, and modern backend architecture patterns for building scalable web applications and microservices.</description>
     </item>
     <item>
       <title>Inkelud for Kediri Gov.</title>
