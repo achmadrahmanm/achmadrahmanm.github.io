@@ -9,13 +9,21 @@ build:
 
 # Achmad Rahman Mawardi
 
-**Full-Stack Developer | PropTech | Enterprise Platforms**
+**Fullstack Programmer (Operasional Aplikasi) | PropTech | Enterprise Platforms**
 
 Surabaya, Indonesia | 081803793442 | [achmadrahmanm@gmail.com](mailto:achmadrahmanm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/achmadrahman/) | [Portfolio](https://achmadrahmanm.github.io/)
 
 ## Profile
 
-Full-Stack Developer with 7+ years of experience building and operating web platforms across property technology, e-commerce, FinTech, education, and government. Strong in Laravel, CodeIgniter, REST APIs, MySQL, Elasticsearch, Redis, deployment, and translating business needs into measurable product outcomes.
+Fullstack Developer dengan pengalaman 7+ tahun dalam mengembangkan dan mengoperasikan sistem informasi berbasis web untuk sektor swasta dan pemerintahan. Berpengalaman mengerjakan aplikasi operasional, dashboard, CMS, e-commerce, integrasi REST API, dan sistem multi-peran menggunakan Laravel, CodeIgniter, PHP, JavaScript, MySQL, Elasticsearch, Redis, serta Docker.
+
+## Kompetensi Relevan
+
+- **Pengalaman:** 7+ tahun pengembangan dan pemeliharaan sistem informasi web untuk PropNex Indonesia serta proyek pemerintah melalui Navasa Studio.
+- **Portofolio:** Terlibat dalam 12 proyek dengan tautan verifikasi, mencakup platform enterprise, sistem pemerintah, e-commerce, CMS, dashboard, dan aplikasi operasional.
+- **Fullstack:** Laravel dan CodeIgniter untuk backend; JavaScript, jQuery, HTML, CSS, dan Vue.js untuk frontend; REST API untuk komunikasi antarsistem dan client.
+- **Operasional dan keamanan:** Authentication, role-based access control, validasi input, OAuth/API key, logging, monitoring, CI/CD, deployment, dan dukungan sistem produksi.
+- **Infrastruktur:** Docker, AWS S3, CloudFront, Redis, load balancer, serta pengelolaan lingkungan lokal dan cloud.
 
 ## Experience
 
@@ -39,9 +47,10 @@ Full-Stack Developer with 7+ years of experience building and operating web plat
 - Built responsive, performance-focused web pages and improved technical SEO with schema markup and Google Webmaster Tools.
 - Published and supported indexing for more than 100,000 pages; improved the local website to approximately 10,000 visits per month.
 
-## Selected Projects
+## Proyek Relevan dan Tautan Verifikasi
 
 - **PropNex Plus** - Real estate platform for listings, agents, CRM, leads, analytics, and property search. Built with Laravel/CodeIgniter, MySQL, Elasticsearch, Firebase, REST APIs, and image optimization. [propnexplus.com](https://propnexplus.com/)
+- **PropNex Company Profile** - Official company website and CMS built with CodeIgniter 4 and PHP 8.2, including multi-branch content management, AWS S3, deployment, and ongoing maintenance. [propnex.co.id](https://propnex.co.id/)
 - **Multi-Platform Listing Integration** - Automated distribution to Rumah123, Lamudi, and OLX with validation, Redis queues, data mapping, retries, logging, and API monitoring. [Project details](https://achmadrahmanm.github.io/projects/project10/)
 - **Multi-Bank Mortgage System** - KPR application platform for OCBC, BCA, Maybank, and Permata with agent and bank portals, validation, status tracking, and PDF/Excel document automation. [Project presentation](https://docs.google.com/presentation/d/1XNCuoaiswvRkDbPLH8OH_CvrCy8b5qX9yU3G7xN2kus/edit)
 - **EAMS** - Core estate agency system for agents, properties, transactions, commissions, reporting, branches, and system integrations. [Project details](https://achmadrahmanm.github.io/projects/project8/)
@@ -62,12 +71,13 @@ Full-Stack Developer with 7+ years of experience building and operating web plat
 - Head of Communications and Information Division, Computer Engineering Student Association.
 - Technical internship participant at the Indonesian Navy Ship Maintenance and Repair Facility.
 
-## Technical Skills
+## Keahlian Teknis
 
-**Backend:** Laravel, CodeIgniter, PHP, REST APIs, MVC, OOP, validation, authentication, RBAC, queues, background jobs  
-**Frontend:** HTML, CSS, JavaScript, jQuery, Vue.js, Bootstrap, responsive UI, Figma  
-**Data and infrastructure:** MySQL, Elasticsearch, Firebase, Redis, AWS S3, CloudFront, Docker, CI/CD, load balancing, logging, monitoring, deployment  
-**Product and collaboration:** Requirements analysis, product planning, KPI definition, API documentation, vendor coordination, production support
+**Backend:** Laravel, CodeIgniter, PHP, REST API, MVC, OOP, validasi, authentication, RBAC, queues, background jobs  
+**Frontend dan JavaScript:** HTML, CSS, JavaScript, jQuery, Vue.js, Bootstrap, responsive UI, Figma  
+**Data dan infrastruktur:** MySQL, Elasticsearch, Firebase, Redis, AWS S3, CloudFront, Docker, CI/CD, load balancing, logging, monitoring, deployment  
+**Keamanan aplikasi:** Authentication, role-based access control, validasi input, OAuth/API key, webhook, API documentation, logging, dan pemeliharaan sistem produksi  
+**Produk dan kolaborasi:** Analisis kebutuhan, perencanaan produk, definisi KPI, koordinasi vendor, dan dukungan operasional
 
 ## Publication
 
